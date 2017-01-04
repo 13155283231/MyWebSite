@@ -1,0 +1,9 @@
+D:\zyh\MyWebSite\MyWeb.UI\bin\MyWeb.UI.dll
+D:\zyh\MyWebSite\MyWeb.UI\bin\MyWeb.UI.pdb
+D:\zyh\MyWebSite\MyWeb.UI\bin\MyWeb.BLL.dll
+D:\zyh\MyWebSite\MyWeb.UI\bin\MyWeb.DAL.dll
+D:\zyh\MyWebSite\MyWeb.UI\bin\MyWeb.BLL.pdb
+D:\zyh\MyWebSite\MyWeb.UI\bin\MyWeb.DAL.pdb
+D:\zyh\MyWebSite\MyWeb.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\zyh\MyWebSite\MyWeb.UI\obj\Debug\MyWeb.UI.dll
+D:\zyh\MyWebSite\MyWeb.UI\obj\Debug\MyWeb.UI.pdb

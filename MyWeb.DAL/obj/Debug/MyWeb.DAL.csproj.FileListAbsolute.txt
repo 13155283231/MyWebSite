@@ -1,0 +1,5 @@
+D:\zyh\MyWebSite\MyWeb.DAL\bin\Debug\MyWeb.DAL.dll
+D:\zyh\MyWebSite\MyWeb.DAL\bin\Debug\MyWeb.DAL.pdb
+D:\zyh\MyWebSite\MyWeb.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\zyh\MyWebSite\MyWeb.DAL\obj\Debug\MyWeb.DAL.dll
+D:\zyh\MyWebSite\MyWeb.DAL\obj\Debug\MyWeb.DAL.pdb

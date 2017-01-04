@@ -1,0 +1,7 @@
+D:\zyh\MyWebSite\MyWeb.BLL\bin\Debug\MyWeb.BLL.dll
+D:\zyh\MyWebSite\MyWeb.BLL\bin\Debug\MyWeb.BLL.pdb
+D:\zyh\MyWebSite\MyWeb.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\zyh\MyWebSite\MyWeb.BLL\obj\Debug\MyWeb.BLL.dll
+D:\zyh\MyWebSite\MyWeb.BLL\obj\Debug\MyWeb.BLL.pdb
+D:\zyh\MyWebSite\MyWeb.BLL\bin\Debug\MyWeb.DAL.dll
+D:\zyh\MyWebSite\MyWeb.BLL\bin\Debug\MyWeb.DAL.pdb
